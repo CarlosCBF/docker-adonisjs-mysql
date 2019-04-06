@@ -2,7 +2,7 @@
 
 ## Arquivos necessários para que um projeto AdonisJS + MySQL seja executado em containers Docker.
 
-###Com a adição desses arquivos no seu projeto, serão construído 3 containers:
+### Com a adição desses arquivos no seu projeto, serão construído 3 containers:
 
 adonis-docker - Onde será executado o seu servidor web (nodeJS + AdonisJS) (localhost:3333).
 
@@ -12,20 +12,20 @@ phpmyadmin-docker - Onde será executado o PHPMyAdmin, para alterações via bro
 
 ## 1º - PASSO
 
-###Se ainda não existir o projeto, basta executar:
+### Se ainda não existir o projeto, basta executar:
 
 ```js
 adonis new nome-do-projeto
 ```
 
-####ATENÇÃO - Copie a APP_KEY= do seu arquivo .env para adicionar no que será adicionado ao seu projeto
+#### ATENÇÃO - Copie a APP_KEY= do seu arquivo .env para adicionar no que será adicionado ao seu projeto
 
 Copiar todos os arquivos para a raiz do projeto AdonisJS. (Atenção: O .env substituirá o já existente na raiz do seu projeto.)
 
 
-###Caso o projeto já exista:
+### Caso o projeto já exista:
 
-####ATENÇÃO - Copie a APP_KEY= do seu arquivo .env para adicionar no que será adicionado ao seu projeto
+#### ATENÇÃO - Copie a APP_KEY= do seu arquivo .env para adicionar no que será adicionado ao seu projeto
 
 Copiar todos os arquivos para a raiz do projeto AdonisJS. (Atenção: O .env substituirá o já existente na raiz do seu projeto.)
 
