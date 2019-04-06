@@ -1,4 +1,4 @@
-# Configuração para execução do Adonis em Docker
+# Configuração para execução do AdonisJS + MySQL em Docker
 
 ## Arquivos necessários para que um projeto AdonisJS + MySQL seja executado em containers Docker.
 
